@@ -1,7 +1,6 @@
-#Projetos WEB
+Projetos WEB
+>Aqui eu irei lançar meus primeiros Projetos WEB
 
-"Aqui eu irei lançar meus primeiros projetos web.
+>Projetos de Currículo
 
-"- Projetos de Currículo
-
-"- Sites para aprimorar meu conhecimento
+>Sites para aprimorar meu conhecimento
